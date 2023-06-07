@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yundung.github.io/yundung/sitemap.xml
+Sitemap: https://yundung.ch/sitemap.xml
