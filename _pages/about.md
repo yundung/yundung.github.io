@@ -8,10 +8,10 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  #address: >
+   # <p>555 your office number</p>
+   # <p>123 your address street</p>
+   # <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -23,7 +23,3 @@ I am a Master's student in [Central Asian Studies](https://www.philhist.unibe.ch
 
 My Digital Humanities graduation project builds on my Master’s thesis “Digitizing Tibetan Buddhist Texts – An Analysis of Key Tibetan Actors and Their Roles”, which explored how Tibetan actors contribute to cultural preservation through digital innovation. While the thesis focused on selected institutions and people, the current project takes a closer look at the [Buddhist Digital Resource Center (BDRC)](https://www.bdrc.io) — a pioneering platform in the field. By examining BDRC’s tools, technologies, and workflows, the project aims to provide practical insights for users and researchers working with digital Tibetan texts and highlights how BDRC enables broader access, collaboration, and preservation of this important textual heritage.
 
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
