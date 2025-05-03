@@ -23,7 +23,7 @@ I am a Master's student in [Central Asian Studies](https://www.philhist.unibe.ch
 
 My Digital Humanities graduation project builds on my Master’s thesis “Digitizing Tibetan Buddhist Texts – An Analysis of Key Tibetan Actors and Their Roles”, which explored how Tibetan actors contribute to cultural preservation through digital innovation. While the thesis focused on selected institutions and people, the current project takes a closer look at the [Buddhist Digital Resource Center (BDRC)](https://www.bdrc.io) — a pioneering platform in the field. By examining BDRC’s tools, technologies, and workflows, the project aims to provide practical insights for users and researchers working with digital Tibetan texts and highlights how BDRC enables broader access, collaboration, and preservation of this important textual heritage.
 
-In my free time, I volunteer for [Gukab](https://www.instagram.com/p/DB8Tk8eu10i/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), which means "Chance" in Tibetan. The organization focuses on helping young Tibetans and their families better understand the Swiss education system and explore different career paths.
+In my free time, I volunteer for [Gukab](https://www.instagram.com/p/DB8Tk8eu10i/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), a community initiative whose name means *“Opportunities”* (Tib. གོ་སྐབས།). The project supports young Tibetans and their families in understanding the Swiss education system and exploring diverse career paths.
 
-I am also a certified Tibetan Yoga (Tsa Lung) teacher and a Dharma practitioner. More information about Tsa Lung can be found [here](https://drikung.ch/tsa-lung-tibetisches-yoga/).
+I am also a certified [Tibetan Yoga (Tsa Lung)](https://drikung.ch/tsa-lung-tibetisches-yoga/) teacher and an engaged Dharma practitioner.
 
