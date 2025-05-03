@@ -1,7 +1,7 @@
 ---
 layout: post
 title: University of Bern to End Tibetan Language Courses
-date: 2025-05-03 12:00:00 +0200
+date: 2025-03-25 12:00:00 +0200
 inline: true
 related_posts: false
 ---
