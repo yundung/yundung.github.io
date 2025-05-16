@@ -11,6 +11,13 @@
 - title: Education
   type: time_table
   contents:
+    - title: M.A. (on going)
+      institution: University of Bern, Bern, Switzerland
+      year: 2025
+      description:
+        - Major in Central Asian Studies with focus on Tibet and China
+        - Minor in Digital Humanities
+    
     - title: M.A.
       institution: University of Zurich, Zurich, Switzerland
       year: 2019
