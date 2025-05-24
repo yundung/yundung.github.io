@@ -24,6 +24,12 @@
       description:
         - Political Science (mono-master's program)
 
+    - title: Exchange Semester
+      institution: National Chengchi University, Taipei, Taiwan
+      year: 2016
+      description:
+        - Completed an exchange semester at National Chengchi University
+
     - title: B.A.
       institution: University of Zurich, Zurich, Switzerland
       year: 2014
@@ -31,12 +37,7 @@
         - Major in Political Science
         - Minor in Religious Studies
 
-    - title: Exchange Semester
-      institution: National Chengchi University, Taipei, Taiwan
-      year: 2016
-      description:
-        - Completed an exchange semester at National Chengchi University
-        - additional intensive Mandarin language course
+
 
 # - title: Other Interests
 #  type: list
