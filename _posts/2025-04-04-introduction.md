@@ -7,14 +7,38 @@ tags: digitization buddhist-texts
 # categories: sample-posts
 visible: true
 ---
-As part of my final project in Digital Humanities, I am writing a five-part blog series exploring the digitization of Tibetan Buddhist texts. This topic has shaped not only my academic research, but also my personal journey at the intersection of tradition and technology. It is the continuation of the work I began in my master’s thesis, where I examined the motivations, challenges, and cultural dynamics behind digitization efforts through interviews and case studies.
 
-One organization that stood out throughout my thesis, but that I was unable to include directly due to the lack of an interview, was the **Buddhist Digital Resource Center (BDRC)**. In fact, the absence of a direct exchange with BDRC during my research only increased my curiosity. That is why I have chosen to dedicate my final Digital Humanities project to BDRC: to dive deeper into its history, mission, technological strategies, and cultural impact.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/bdrc-00.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    BDRC homepage - an entry point to Tibetan Buddhist digital texts
+</div>
+
+
+
+As part of my final project in Digital Humanities, I am writing a five-part blog series exploring the digitization of Tibetan Buddhist texts. This topic has shaped not only my academic research, but also my personal journey at the intersection of tradition and technology. It is the continuation of the work I began in my master’s thesis, where I examined the motivations, challenges, and cultural dynamics behind digitization efforts through in-depth interviews.
+
+One organization that stood out throughout my thesis, but that I was unable to include directly due to the lack of an interview, was the [**Buddhist Digital Resource Center (BDRC)**](https://www.bdrc.io). In fact, the absence of a direct exchange with BDRC during my research only increased my curiosity. That is why I have chosen to dedicate my final Digital Humanities project to BDRC: to dive deeper into its history, mission, technological strategies, and cultural impact.
 
 ### Why BDRC?
 
 My thesis showed that digitization is not just a technical task. It is a cultural and ethical one. It involves navigating questions of access, authority, identity, and preservation. Few institutions embody these complexities as fully as BDRC.  
-BDRC began as the Tibetan Buddhist Resource Center (TBRC) in 1999, founded by the late E. Gene Smith. After decades of working with Tibetan texts at the Library of Congress, Smith sought to ensure that the vast literary heritage of Tibet, threatened by displacement and globalisation, would not be lost. What made his approach unique was his early embrace of digital tools, not just for storage, but for equitable access. His goal was simple but revolutionary: to make Tibetan texts available to everyone, from monks in exile to scholars across the world.
+BDRC began as the Tibetan Buddhist Resource Center (TBRC) in 1999, founded by the late [**E. Gene Smith**](https://www.bdrc.io/people/e-gene-smith/). After decades of working with Tibetan texts at the Library of Congress, Smith sought to ensure that the vast literary heritage of Tibet, threatened by displacement and globalization, would not be lost. What made his approach unique was his early embrace of digital tools, not just for storage, but for equitable access. His goal was simple but revolutionary: to make Tibetan texts available to everyone, from monks in exile to scholars across the world.
+
+<div class="embed-responsive embed-responsive-16by9 mb-3">
+  <iframe 
+    title="Vimeo player" 
+    src="https://player.vimeo.com/video/241025523?h=2ab2062237" 
+    width="640" 
+    height="360" 
+    frameborder="0" 
+    allowfullscreen>
+  </iframe>
+</div>
 
 ### From TBRC to BDRC: Expanding the Mission
 
@@ -22,7 +46,7 @@ Since 2016, the center has grown beyond its original Tibetan focus to include Bu
 
 ### Technology Meets Tradition: BUDA
 
-At the heart of BDRC’s work is its innovative platform **BUDA** (Buddhist Universal Digital Archive), which provides access to more than **27 million pages** of Buddhist texts. BUDA is more than just a digital library - it is a rich metadata ecosystem that supports nuanced textual analysis, multilingual research, and long-term preservation. BUDA represents an ideal example of how digital infrastructure can be used not simply for information storage, but for cultural transmission.
+At the heart of BDRC’s work is its platform [**BUDA** (Buddhist Universal Digital Archive)](https://www.bdrc.io/buda-archive/)), which provides access to more than **27 million pages** of Buddhist texts. BUDA is more than just a digital library - it is a rich metadata ecosystem that supports nuanced textual analysis, multilingual research, and long-term preservation. BUDA represents an ideal example of how digital infrastructure can be used not simply for information storage, but for cultural transmission.
 
 ### From Thesis to Blog
 
