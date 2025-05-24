@@ -1,12 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://yundung.ch/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yundung.ch/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-05-24T14:26:06+00:00</updated><id>https://yundung.ch/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-</subtitle><entry><title type="html">Buddhist Digital Archives (BUDA) in Focus - Infrastructure, Interoperability, and Innovation</title><link href="https://yundung.ch/blog/2025/BUDA/" rel="alternate" type="text/html" title="Buddhist Digital Archives (BUDA) in Focus - Infrastructure, Interoperability, and Innovation" /><published>2025-04-11T11:30:00+00:00</published><updated>2025-04-11T11:30:00+00:00</updated><id>https://yundung.ch/blog/2025/BUDA</id><content type="html" xml:base="https://yundung.ch/blog/2025/BUDA/"><![CDATA[<p>To provide open access to its extensive collection, BDRC developed the Buddhist Digital Archives (BUDA), a powerful online platform that serves as a collaborative archive and research tool. BUDA hosts millions of pages of Buddhist texts, combining high-resolution scans of original manuscripts with digitized electronic texts. The platform’s intuitive design offers a range of tools to support research and study, including:</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://yundung.ch/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yundung.ch/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-05-24T14:51:32+00:00</updated><id>https://yundung.ch/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+</subtitle><entry><title type="html">Buddhist Digital Archives (BUDA) in Focus - Infrastructure, Interoperability, and Innovation</title><link href="https://yundung.ch/blog/2025/BUDA/" rel="alternate" type="text/html" title="Buddhist Digital Archives (BUDA) in Focus - Infrastructure, Interoperability, and Innovation" /><published>2025-04-11T11:30:00+00:00</published><updated>2025-04-11T11:30:00+00:00</updated><id>https://yundung.ch/blog/2025/BUDA</id><content type="html" xml:base="https://yundung.ch/blog/2025/BUDA/"><![CDATA[<p><img src="assets/img/buda-00.jpeg" alt="BUDA website" />
+To provide open access to its extensive collection, BDRC developed the <a href="https://www.bdrc.io/buda-archive/">Buddhist Digital Archives (BUDA)</a>, a powerful online platform that serves as a collaborative archive and research tool.
+BUDA hosts millions of pages of Buddhist texts, combining high-resolution scans of original manuscripts with digitized electronic texts. The platform’s intuitive design offers a range of tools to support research and study, including:</p>
 <ul>
-  <li>Browsing curated collections by tradition, language, or preservation project</li>
-  <li>Advanced multi-language search options to find specific texts, authors, or topics</li>
-  <li>A high-resolution image viewer for detailed examination of original manuscripts</li>
-  <li>An etext reader with translation support for easier reading and comparison</li>
-  <li>A linked open data structure that connects people, places, texts, and topics</li>
-  <li>The ability to download texts for offline use</li>
+  <li>🧭 Browsing curated collections by tradition, language, or preservation project</li>
+  <li>🔍 Advanced multi-language search options to find specific texts, authors, or topics</li>
+  <li>🖼️ High-resolution image viewer for detailed examination of original manuscripts</li>
+  <li>📖 Etext reader with translation support for easier reading and comparison</li>
+  <li>🔗 Linked open data structure that connects people, places, texts, and topics</li>
+  <li>💾 Downloadable texts for offline use</li>
 </ul>
 
 <p>This blog post highlights how BUDA’s search features and data organization provide invaluable support for researchers, while also demonstrating broader implications for cultural heritage digitization.</p>
