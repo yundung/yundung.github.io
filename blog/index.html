@@ -112,9 +112,13 @@ pagination:
     {% endfor %}
   </ul>
 
-  {% assign visible_posts = paginator.posts | where_exp: "post", "post.visible != false and post.visible != 'false'" %}
+  {% assign visible_posts = paginator.posts | where_exp: "post", "post.visible != false and post.visible != 'false' and post.external_source == blank" %}
   
-  {% if visible_posts.size > 0 and paginator.total_pages > 1 %}
+  {% assign all_visible_posts = site.posts | where_exp: "post", "post.visible != false and post.visible != 'false' and post.external_source == blank" %}
+  
+  {% assign total_visible_posts = all_visible_posts | size %}
+
+  {% if total_visible_posts > paginator.per_page %}
     {% include pagination.html %}
 {% endif %}
 
