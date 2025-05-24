@@ -6,13 +6,16 @@ description: publications by categories in reversed chronological order. generat
 years: [1967, 1956, 1950, 1935, 1905]
 nav: false
 nav_order: 1
+visible: false
 ---
-<!-- _pages/publications.md -->
+
+
+<!-- Temporarily hide content -->
+<!-- 
 <div class="publications">
-
-{%- for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f {{ site.scholar.bibliography }} -q @*[year={{y}}]* %}
-{% endfor %}
-
+  {%- for y in page.years %}
+    <h2 class="year">{{y}}</h2>
+    {% bibliography -f {{ site.scholar.bibliography }} -q @*[year={{y}}]* %}
+  {% endfor %}
 </div>
+-->
