@@ -112,6 +112,10 @@ pagination:
     {% endfor %}
   </ul>
 
-  {% include pagination.html %}
+  {% assign visible_posts = paginator.posts | where_exp: "post", "post.visible != false and post.visible != 'false'" %}
+  
+  {% if visible_posts.size > 0 %}
+    {% include pagination.html %}
+{% endif %}
 
 </div>

@@ -3,8 +3,8 @@ layout: post
 title:  Digitizing the Dharma – Introducing BDRC and the Digital Preservation of Tibetan Buddhist Texts
 date:   2025-04-04 16:40:16
 description: First blogpost out of five
-tags: digitization buddhist texts
-categories: sample-posts
+tags: digitization buddhist-texts
+# categories: sample-posts
 visible: true
 ---
 As part of my final project in Digital Humanities, I am writing a five-part blog series exploring the digitization of Tibetan Buddhist texts. This topic has shaped not only my academic research, but also my personal journey at the intersection of tradition and technology. It is the continuation of the work I began in my master’s thesis, where I examined the motivations, challenges, and cultural dynamics behind digitization efforts through interviews and case studies.
