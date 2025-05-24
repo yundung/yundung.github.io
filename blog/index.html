@@ -114,7 +114,7 @@ pagination:
 
   {% assign visible_posts = paginator.posts | where_exp: "post", "post.visible != false and post.visible != 'false'" %}
   
-  {% if visible_posts.size > 0 %}
+  {% if visible_posts.size > 0 and paginator.total_pages > 1 %}
     {% include pagination.html %}
 {% endif %}
 
