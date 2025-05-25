@@ -16,7 +16,7 @@ visible: true
     </div>
 </div>
 <div class="caption">
-    BDRC Homepage - an entry point to Buddhist digital texts
+    BDRC Homepage - An Entry Point to Buddhist Digital Texts
 </div>
 
 
