@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Between the Alps and the Himalayas🏔️
+subtitle: Between the Alps and the Himalayas ⛰️🌏⛰️
 
 profile:
   align: right
@@ -23,5 +23,4 @@ I am a Master's student in [Central Asian Studies](https://www.philhist.unibe.ch
 
 My Digital Humanities graduation project builds on my Master’s thesis [Digitizing Tibetan Buddhist Texts – An Analysis of Key Tibetan Actors and Their Roles](/assets/pdf/Yundung%202024_%20Digitizing%20Tibetan%20Buddhist%20Texts.pdf). While the thesis focused on selected institutions and people, the current project takes a closer look at the [Buddhist Digital Resource Center (BDRC)](https://www.bdrc.io) - a pioneering platform in the field. By examining BDRC’s tools, technologies, and workflows, the project aims to provide practical insights for users and researchers working with digital Tibetan texts and highlights how BDRC enables broader access, collaboration, and preservation of this important textual heritage.
 
-In my free time, I volunteer for [Gukab](https://www.instagram.com/p/DB8Tk8eu10i/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), an initiative dedicated to supporting young Tibetans and their families in navigating the Swiss education system and discovering diverse academic and professional pathways.
-
+In my free time, I volunteer for [Gukab](https://www.instagram.com/p/DB8Tk8eu10i/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), an initiative dedicated to supporting young Tibetans and their families who have recently arrived in Switzerland or whose parents have not lived here for long. We help them navigate the Swiss education system and explore diverse academic and professional pathways.
