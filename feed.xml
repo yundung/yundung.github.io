@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://yundung.ch/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yundung.ch/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-05-25T10:23:38+00:00</updated><id>https://yundung.ch/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://yundung.ch/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yundung.ch/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-05-25T12:31:17+00:00</updated><id>https://yundung.ch/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 </subtitle><entry><title type="html">Buddhist Digital Archives (BUDA) in Focus - Part 2</title><link href="https://yundung.ch/blog/2025/BUDA2/" rel="alternate" type="text/html" title="Buddhist Digital Archives (BUDA) in Focus - Part 2" /><published>2025-04-18T08:44:00+00:00</published><updated>2025-04-18T08:44:00+00:00</updated><id>https://yundung.ch/blog/2025/BUDA2</id><content type="html" xml:base="https://yundung.ch/blog/2025/BUDA2/"><![CDATA[<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         <figure>
@@ -110,7 +110,57 @@
 
 <h4 id="utilize-the-search-function">Utilize the Search Function</h4>
 
-<p>The BUDA homepage features a central search bar that accepts a wide range of queries, including text titles, author names, subjects, and place names. Searches can be conducted using original scripts or transliterations. Search results can be refined using filters such as language, work, version, person, place, or subject.</p>
+<p>The <a href="https://library.bdrc.io">BUDA homepage</a> features a central search bar that supports a wide range of queries. A simple search allows users to enter a keyword directly, such as a title, name, or topic, using either original scripts or transliterations.</p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/buda-01-search-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/buda-01-search-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/buda-01-search-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/buda-01-search.jpeg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    BUDA’s simple search bar on the homepage
+</div>
+
+<p>For more precise results, the advanced search function enables users to specify where to search: within works, texts, e-texts, authors, persons, places, topics, or collections. Search results can be further refined using filters such as language, version, person, place, and subject.</p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/buda-02-search-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/buda-02-search-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/buda-02-search-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/buda-02-search.jpeg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    BUDA’s advanced search interface - offering precise filters for searching by work, person, place, and more
+</div>
 
 <h4 id="explore-linked-data-rebonds">Explore Linked Data (“Rebonds”)</h4>
 
@@ -185,7 +235,7 @@
     </div>
 </div>
 <div class="caption">
-    BDRC Homepage - an entry point to Buddhist digital texts
+    BDRC Homepage - An Entry Point to Buddhist Digital Texts
 </div>
 
 <p>As part of my final project in Digital Humanities, I am writing a five-part blog series exploring the <strong>digitization of Tibetan Buddhist texts</strong>. This topic has shaped not only my academic research, but also my personal journey at the intersection of tradition and technology. It is the continuation of the work I began in my master’s thesis, where I examined the motivations, challenges, and cultural dynamics behind digitization efforts through in-depth interviews.</p>
