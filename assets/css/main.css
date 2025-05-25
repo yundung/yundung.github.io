@@ -913,35 +913,6 @@ nav[data-toggle=toc] .nav-link.active:hover {
   color: var(--global-danger-block-title);
 }
 
-a {
-  color: #0066cc;
-  text-decoration: underline;
-}
-a:hover {
-  color: #003366;
-}
-
-a strong,
-strong a,
-b a {
-  color: #0066cc;
-  text-decoration: underline;
-}
-
-a {
-  color: #0066cc;
-  text-decoration: underline;
-}
-a:hover {
-  color: #003366;
-}
-
-a strong,
-a b {
-  color: inherit;
-  text-decoration: inherit; /* keep underline if you want */
-}
-
 /*******************************************************************************
  * Style overrides for distill blog posts.
  ******************************************************************************/
