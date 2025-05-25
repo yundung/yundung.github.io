@@ -996,37 +996,3 @@ nav[data-toggle="toc"] {
     }
   }
 }
-
-// Style all links consistently
-a {
-  color: #0066cc;
-  text-decoration: underline;
-
-  &:hover {
-    color: #003366;
-  }
-}
-
-// Ensure bold links also appear blue
-a strong,
-strong a,
-b a {
-  color: #0066cc;
-  text-decoration: underline;
-}
-// Style all links consistently
-a {
-  color: #0066cc;
-  text-decoration: underline;
-
-  &:hover {
-    color: #003366;
-  }
-}
-
-// Ensure bold text inside links uses link color
-a strong,
-a b {
-  color: inherit;
-  text-decoration: inherit; /* keep underline if you want */
-}
