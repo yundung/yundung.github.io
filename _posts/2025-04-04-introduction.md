@@ -15,7 +15,7 @@ visible: true
     </div>
 </div>
 <div class="caption">
-    BDRC homepage - an entry point to Tibetan Buddhist digital texts
+    BDRC Homepage - an entry point to Tibetan Buddhist digital texts
 </div>
 
 
@@ -26,7 +26,9 @@ One organization that stood out throughout my thesis, but that I was unable to i
 
 ### Why BDRC?
 
-My thesis showed that digitization is not just a technical task. It is a cultural and ethical one. It involves navigating questions of access, authority, identity, and preservation. Few institutions embody these complexities as fully as BDRC.  
+My [thesis](/assets/pdf/Yundung%202024_%20Digitizing%20Tibetan%20Buddhist%20Texts.pdf) showed that digitization is not just a technical task. It is a cultural and ethical one. It involves navigating questions of access, authority, identity, and preservation, and institutions such as BDRC embody these complexities in their entirety.
+
+
 BDRC began as the **Tibetan Buddhist Resource Center (TBRC)** in 1999, founded by the late [**E. Gene Smith**](https://www.bdrc.io/people/e-gene-smith/). After decades of working with Tibetan texts at the Library of Congress, Smith sought to ensure that the vast literary heritage of Tibet, threatened by displacement and globalization, would not be lost. What made his approach unique was his early embrace of digital tools, not just for storage, but for equitable access. His goal was simple but revolutionary: to make Tibetan texts available to everyone, from monks in exile to scholars across the world.
 
 <div class="embed-responsive embed-responsive-16by9 mb-3">
@@ -72,7 +74,7 @@ This opening post lays the foundation for the series ahead. In the next entry, I
 #### Coming up in the series:
 
 - Digitizing the Dharma – Introducing BDRC and the Digital Preservation of Tibetan Buddhist Texts (this post)  
-- Buddhist Digital Archives (BUDA) in Focus - Infrastructure, Interoperability, and Innovation
+- Buddhist Digital Archives (BUDA) in Focus
 - Behind the Interface: Metadata, Modularity, and the Challenges of Cataloguing Tibetan Texts  
 - Who Gets to Digitize? Actors, Agendas, and Authority in the Preservation of Tibetan Knowledge  
 - From Access to Engagement: The Role of Community in the Future of Digital Preservation
