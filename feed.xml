@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://yundung.ch/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yundung.ch/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-05-25T07:09:08+00:00</updated><id>https://yundung.ch/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://yundung.ch/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yundung.ch/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-05-25T09:25:57+00:00</updated><id>https://yundung.ch/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 </subtitle><entry><title type="html">Buddhist Digital Archives (BUDA) in Focus</title><link href="https://yundung.ch/blog/2025/BUDA/" rel="alternate" type="text/html" title="Buddhist Digital Archives (BUDA) in Focus" /><published>2025-04-11T11:30:00+00:00</published><updated>2025-04-11T11:30:00+00:00</updated><id>https://yundung.ch/blog/2025/BUDA</id><content type="html" xml:base="https://yundung.ch/blog/2025/BUDA/"><![CDATA[<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         <figure>
@@ -34,9 +34,44 @@ BUDA hosts millions of pages of Buddhist texts, combining high-resolution scans 
   <li>💾 Downloadable texts for offline use</li>
 </ul>
 
-<p>This blog post highlights how BUDA’s search features and data organization provide invaluable support for researchers, while also demonstrating broader implications for cultural heritage digitization.</p>
+<p>This blog post highlights how BUDA’s search features and data organization provide support for researchers, while also demonstrating broader implications for cultural heritage digitization.</p>
 
 <hr />
+
+<h2 id="how-to-explore-the-vast-collection-of-tibetan-and-buddhist-literature-on-buda">How to Explore the Vast Collection of Tibetan and Buddhist Literature on BUDA</h2>
+<p>BUDA is built as an open-source platform based on open standards, designed for free use and easy access. At its core are two key technologies: the International Image Interoperability Framework (IIIF) and Linked Open Data.<sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">1</a></sup></p>
+<ul>
+  <li>IIIF enables BUDA to provide a rich, user-friendly interface for viewing, downloading, annotating, and sharing high-quality images of Buddhist manuscripts—capabilities far beyond previous systems</li>
+  <li>BUDA’s Linked Open Data architecture structures information in a machine-readable, interconnected way, allowing seamless linking and querying across datasets. This not only supports long-term preservation but also creates a dynamic, globally accessible scholarly hub that connects texts, people, places, and historical contexts within Buddhist cultural heritage.</li>
+</ul>
+
+<p>This digital platform allows for accessing an extensive collection of Tibetan and Buddhist texts in multiple languages, including Tibetan, Sanskrit, Chinese, Pali, Burmese, and Khmer.</p>
+
+<h3 id="how-to-use-buda-a-step-by-step-guide">How to Use BUDA: A Step-by-Step Guide</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Utilize the Search Function
+</code></pre></div></div>
+
+<p>The BUDA homepage features a central search bar that accepts a wide range of queries, including text titles, author names, subjects, and place names. Searches can be conducted using original scripts or transliterations. Search results can be refined using filters such as language, work, version, person, place, or subject.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Explore Linked Data ("Rebonds")
+</code></pre></div></div>
+
+<p>BUDA employs a system of interconnected data that facilitates navigation between related records. For example, a user may move from a work to its various versions, to the author’s biographical information, or to other works by the same person. This interconnected structure supports discovery and contextual exploration of related materials.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Access and Download Digital Manuscripts
+</code></pre></div></div>
+
+<p>High-resolution digital scans of manuscripts are available for page-by-page browsing or full-text reading. Registered users may download complete works as PDF or image files. Non-registered visitors typically have access to the first and last 20 pages of most texts.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Make Use of the E-Text Reader and Research Tools
+</code></pre></div></div>
+
+<p>In addition to scanned images, many works are available as searchable e-texts, allowing for efficient keyword searches and text navigation. BUDA also provides access to bibliographic information and links to related resources to support research activities.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Engage with an Open Access Platform and Expanding Network
+</code></pre></div></div>
+
+<p>As an open-source platform, BUDA is committed to open access principles. While the majority of content is freely accessible, some materials may require registration. The platform continues to grow through collaborations with monasteries, libraries, and research institutions worldwide.</p>
 
 <h2 id="navigating-buda-search-features-that-empower-research">Navigating BUDA: Search Features that Empower Research</h2>
 
@@ -62,7 +97,113 @@ BUDA hosts millions of pages of Buddhist texts, combining high-resolution scans 
 
 <h3 id="topic-search-thematic-pathways-through-complex-traditions">Topic Search: Thematic Pathways through Complex Traditions</h3>
 
-<p>Thematic search connects researchers with variant terminology and related resources, bridging linguistic and conceptual differences. This feature helps users navigate Buddhist philosophy, ritual, medicine, and more, reflecting BUDA’s role in facilitating interdisciplinary study.</p>]]></content><author><name></name></author><category term="digitization" /><category term="buddhist-texts" /><summary type="html"><![CDATA[Second blogpost out of five]]></summary></entry><entry><title type="html">Digitizing the Dharma – Introducing BDRC and the Digital Preservation of Tibetan Buddhist Texts</title><link href="https://yundung.ch/blog/2025/introduction/" rel="alternate" type="text/html" title="Digitizing the Dharma – Introducing BDRC and the Digital Preservation of Tibetan Buddhist Texts" /><published>2025-04-04T16:40:16+00:00</published><updated>2025-04-04T16:40:16+00:00</updated><id>https://yundung.ch/blog/2025/introduction</id><content type="html" xml:base="https://yundung.ch/blog/2025/introduction/"><![CDATA[<div class="row mt-3">
+<p>Thematic search connects researchers with variant terminology and related resources, bridging linguistic and conceptual differences. This feature helps users navigate Buddhist philosophy, ritual, medicine, and more, reflecting BUDA’s role in facilitating interdisciplinary study.</p>
+
+<h1 id="how-to-use-buda-a-step-by-step-guide-1">How to Use BUDA: A Step-by-Step Guide</h1>
+
+<h2 id="table-of-contents">Table of Contents</h2>
+
+<ul>
+  <li><a href="#how-to-use-buda-a-step-by-step-guide">How to Use BUDA: A Step-by-Step Guide</a>
+    <ul>
+      <li><a href="#utilize-the-search-function">Utilize the Search Function</a></li>
+      <li><a href="#explore-linked-data-rebonds">Explore Linked Data (“Rebonds”)</a></li>
+      <li><a href="#access-and-download-digital-manuscripts">Access and Download Digital Manuscripts</a></li>
+      <li><a href="#make-use-of-the-e-text-reader-and-research-tools">Make Use of the E-Text Reader and Research Tools</a></li>
+      <li><a href="#engage-with-an-open-access-platform-and-expanding-network">Engage with an Open Access Platform and Expanding Network</a></li>
+    </ul>
+  </li>
+  <li><a href="#navigating-buda-search-features-that-empower-research">Navigating BUDA: Search Features that Empower Research</a>
+    <ul>
+      <li><a href="#person-search-connecting-biographies-and-texts">Person Search: Connecting Biographies and Texts</a></li>
+      <li><a href="#place-search-mapping-sacred-geography">Place Search: Mapping Sacred Geography</a></li>
+      <li><a href="#collection-search-accessing-curated-text-groupings">Collection Search: Accessing Curated Text Groupings</a></li>
+      <li><a href="#topic-search-thematic-pathways-through-complex-traditions">Topic Search: Thematic Pathways through Complex Traditions</a></li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<h3 id="how-to-use-buda-a-step-by-step-guide-2">How to Use BUDA: A Step-by-Step Guide</h3>
+
+<h4 id="utilize-the-search-function">Utilize the Search Function</h4>
+
+<p>The BUDA homepage features a central search bar that accepts a wide range of queries, including text titles, author names, subjects, and place names. Searches can be conducted using original scripts or transliterations. Search results can be refined using filters such as language, work, version, person, place, or subject.</p>
+
+<h4 id="explore-linked-data-rebonds">Explore Linked Data (“Rebonds”)</h4>
+
+<p>BUDA employs a system of interconnected data that facilitates navigation between related records. For example, a user may move from a work to its various versions, to the author’s biographical information, or to other works by the same person. This interconnected structure supports discovery and contextual exploration of related materials.</p>
+
+<h4 id="access-and-download-digital-manuscripts">Access and Download Digital Manuscripts</h4>
+
+<p>High-resolution digital scans of manuscripts are available for page-by-page browsing or full-text reading. Registered users may download complete works as PDF or image files. Non-registered visitors typically have access to the first and last 20 pages of most texts.</p>
+
+<h4 id="make-use-of-the-e-text-reader-and-research-tools">Make Use of the E-Text Reader and Research Tools</h4>
+
+<p>In addition to scanned images, many works are available as searchable e-texts, allowing for efficient keyword searches and text navigation. BUDA also provides access to bibliographic information and links to related resources to support research activities.</p>
+
+<h4 id="engage-with-an-open-access-platform-and-expanding-network">Engage with an Open Access Platform and Expanding Network</h4>
+
+<p>As an open-source platform, BUDA is committed to open access principles. While the majority of content is freely accessible, some materials may require registration. The platform continues to grow through collaborations with monasteries, libraries, and research institutions worldwide.</p>
+
+<hr />
+
+<h2 id="navigating-buda-search-features-that-empower-research-1">Navigating BUDA: Search Features that Empower Research</h2>
+
+<p>BUDA offers an intuitive, yet multifaceted search system that caters to diverse research needs within Tibetan Buddhist studies.</p>
+
+<h3 id="person-search-connecting-biographies-and-texts-1">Person Search: Connecting Biographies and Texts</h3>
+
+<p>Searching for persons in BUDA reveals detailed biographical profiles, linked writings, and related figures, enriching understanding of historical and religious contexts. Filters for name variants, birth year, role, tradition, and gender help resolve common ambiguities and pinpoint relevant individuals.</p>
+
+<p>This interconnected data reflects the lived networks behind Tibetan Buddhist textual production, supporting both prosopographic studies and traditional scholarship.</p>
+
+<h3 id="place-search-mapping-sacred-geography-1">Place Search: Mapping Sacred Geography</h3>
+
+<p>Place records provide geographic coordinates, alternative names, and linked persons and texts, enabling spatial exploration of Tibetan Buddhist culture. The interactive map adds a dynamic dimension, inviting users to situate textual materials within their cultural and historical landscapes.</p>
+
+<p>This geospatial approach fosters new perspectives on textual circulation and monastic or pilgrimage sites, expanding the scope of traditional research.</p>
+
+<h3 id="collection-search-accessing-curated-text-groupings-1">Collection Search: Accessing Curated Text Groupings</h3>
+
+<p>With over 100 collections aggregated, BUDA enables targeted exploration of libraries and archives, filtering by language, author, topic, and print or manuscript status. This allows scholars to balance deep dives into specific corpora with serendipitous discovery across the broader Tibetan textual heritage.</p>
+
+<p>Tracking provenance and collection metadata further anchors research in material history and institutional contexts.</p>
+
+<h3 id="topic-search-thematic-pathways-through-complex-traditions-1">Topic Search: Thematic Pathways through Complex Traditions</h3>
+
+<p>Thematic search connects researchers with variant terminology and related resources, bridging linguistic and conceptual differences. This feature helps users navigate Buddhist philosophy, ritual, medicine, and more, reflecting BUDA’s role in facilitating interdisciplinary study.</p>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1">
+      <p>https://www.bdrc.io/buda-archive/ <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>]]></content><author><name></name></author><category term="digitization" /><category term="buddhist-texts" /><summary type="html"><![CDATA[Second blogpost out of five]]></summary></entry><entry><title type="html">Buddhist Digital Archives (BUDA) in Focus</title><link href="https://yundung.ch/blog/2025/BUDA2/" rel="alternate" type="text/html" title="Buddhist Digital Archives (BUDA) in Focus" /><published>2025-04-11T11:30:00+00:00</published><updated>2025-04-11T11:30:00+00:00</updated><id>https://yundung.ch/blog/2025/BUDA2</id><content type="html" xml:base="https://yundung.ch/blog/2025/BUDA2/"><![CDATA[<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/buda-00-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/buda-00-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/buda-00-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/buda-00.jpeg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    Access 30 million pages from the world’s major Buddhist traditions
+</div>]]></content><author><name></name></author><category term="digitization" /><category term="buddhist-texts" /><summary type="html"><![CDATA[Second blogpost out of five]]></summary></entry><entry><title type="html">Digitizing the Dharma – Introducing BDRC and the Digital Preservation of Tibetan Buddhist Texts</title><link href="https://yundung.ch/blog/2025/introduction/" rel="alternate" type="text/html" title="Digitizing the Dharma – Introducing BDRC and the Digital Preservation of Tibetan Buddhist Texts" /><published>2025-04-04T16:40:16+00:00</published><updated>2025-04-04T16:40:16+00:00</updated><id>https://yundung.ch/blog/2025/introduction</id><content type="html" xml:base="https://yundung.ch/blog/2025/introduction/"><![CDATA[<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         <figure>
 
@@ -83,18 +224,16 @@ BUDA hosts millions of pages of Buddhist texts, combining high-resolution scans 
     </div>
 </div>
 <div class="caption">
-    BDRC Homepage - an entry point to Tibetan Buddhist digital texts
+    BDRC Homepage - an entry point to Buddhist digital texts
 </div>
 
 <p>As part of my final project in Digital Humanities, I am writing a five-part blog series exploring the <strong>digitization of Tibetan Buddhist texts</strong>. This topic has shaped not only my academic research, but also my personal journey at the intersection of tradition and technology. It is the continuation of the work I began in my master’s thesis, where I examined the motivations, challenges, and cultural dynamics behind digitization efforts through in-depth interviews.</p>
 
 <p>One organization that stood out throughout my thesis, but that I was unable to include directly due to the lack of an interview, was the <a href="https://www.bdrc.io"><strong>Buddhist Digital Resource Center</strong> (BDRC)</a>. In fact, the absence of a direct exchange with BDRC during my research only increased my curiosity. That is why I have chosen to dedicate my final Digital Humanities project to BDRC: to dive deeper into its history, mission, technological strategies, and cultural impact.</p>
 
-<h3 id="why-bdrc">Why BDRC?</h3>
+<h2 id="why-bdrc">Why BDRC?</h2>
 
-<p>My <a href="/assets/pdf/Yundung%202024_%20Digitizing%20Tibetan%20Buddhist%20Texts.pdf">thesis</a> showed that digitization is not just a technical task. It is a cultural and ethical one. It involves navigating questions of access, authority, identity, and preservation, and institutions such as BDRC embody these complexities in their entirety.</p>
-
-<hr />
+<h2 id="my-thesis-showed-that-digitization-is-not-just-a-technical-task-it-is-a-cultural-and-ethical-one-it-involves-navigating-questions-of-access-authority-identity-and-preservation-and-institutions-such-as-bdrc-embody-these-complexities-in-their-entirety-looking-through-bdrcs-public-news-and-project-updates-it-becomes-clear-how-the-organization-continuously-enhances-access-to-rare-texts-develops-cutting-edge-digital-tools-and-partners-with-communities-and-institutions-to-safeguard-and-share-tibetan-culture-globally">My <a href="/assets/pdf/Yundung%202024_%20Digitizing%20Tibetan%20Buddhist%20Texts.pdf">thesis</a> showed that digitization is not just a technical task. It is a cultural and ethical one. It involves navigating questions of access, authority, identity, and preservation, and institutions such as BDRC embody these complexities in their entirety. Looking through BDRC’s public <a href="https://www.bdrc.io/news/">news</a> and project updates, it becomes clear how the organization continuously enhances access to rare texts, develops cutting-edge digital tools, and partners with communities and institutions to safeguard and share Tibetan culture globally.</h2>
 
 <p>BDRC began as the <strong>Tibetan Buddhist Resource Center (TBRC)</strong> in 1999, founded by the late <a href="https://www.bdrc.io/people/e-gene-smith/"><strong>E. Gene Smith</strong></a>. After decades of working with Tibetan texts at the Library of Congress, Smith sought to ensure that the vast literary heritage of Tibet, threatened by displacement and globalization, would not be lost. What made his approach unique was his early embrace of digital tools, not just for storage, but for equitable access. His goal was simple but revolutionary: to make Tibetan texts available to everyone, from monks in exile to scholars across the world.</p>
 
@@ -103,11 +242,11 @@ BUDA hosts millions of pages of Buddhist texts, combining high-resolution scans 
   </iframe>
 </div>
 
-<h3 id="from-tbrc-to-bdrc-expanding-the-mission">From TBRC to BDRC: Expanding the Mission</h3>
+<h2 id="from-tbrc-to-bdrc-expanding-the-mission">From TBRC to BDRC: Expanding the Mission</h2>
 
 <p>Since 2016, the center has grown beyond its original Tibetan focus to include Buddhist texts in Pali, Sanskrit, Chinese, and other languages. This evolution reflects a broader trend I observed in my thesis: the digitization of Buddhist texts is being shaped by an increasingly diverse group of actors with different cultural, educational, and technological backgrounds. BDRC’s shift mirrors this landscape and serves as a perfect case study for how digital tools can serve both scholarly and spiritual traditions. While acknowledging this broader scope, this blog series will primarily focus on BDRC’s work with Tibetan Buddhist texts, in order to build on the core themes and insights of my earlier research.</p>
 
-<h3 id="technology-meets-tradition-buda">Technology Meets Tradition: BUDA</h3>
+<h2 id="technology-meets-tradition-buda">Technology Meets Tradition: BUDA</h2>
 
 <p>BDRC’s programs fulfill its mission by preserving endangered Buddhist manuscripts, developing digital tools for access and research, and supporting the repatriation and global engagement with Buddhist literary heritage.</p>
 
@@ -137,17 +276,19 @@ BUDA hosts millions of pages of Buddhist texts, combining high-resolution scans 
 
 <p>One of the most impactful outcomes of this mission is <a href="https://www.bdrc.io/buda-archive/"><strong>BUDA</strong> (Buddhist Universal Digital Archive)</a> - BDRC’s flagship digital platform. BUDA provides access to more than 27 million pages of Buddhist texts. It is more than just a digital library - it is a rich metadata ecosystem that supports nuanced textual analysis, multilingual research, and long-term preservation. BUDA represents an ideal example of how digital infrastructure can be used not simply for information storage, but for cultural transmission.</p>
 
-<h3 id="from-thesis-to-blog">From Thesis to Blog</h3>
+<hr />
+
+<h2 id="from-thesis-to-blog">From Thesis to Blog</h2>
 
 <p>In my master’s thesis, I initially assumed that digitization efforts were primarily driven by Western institutions. But through conversations with monastic leaders, librarians, and digital preservation specialists, I came to recognize the vital and often underappreciated role that Tibetan communities and institutions play in shaping these initiatives. This shift in perspective was one of the most meaningful outcomes of my research.</p>
 
 <p>At the same time, the contributions of non-Tibetan organizations remain essential - none more so than the BDRC. Even though I was not able to include BDRC as a case study in my thesis due to the absence of a direct interview, its presence was unmistakable. As a pioneering force and arguably the most influential organization in the field, BDRC has shaped how Tibetan texts are digitized, catalogued, and made accessible. Its work continues to set standards and provide infrastructure that many others, Tibetan and non-Tibetan alike, build upon. That is why this series begins here: to explore BDRC’s role at the heart of the digital preservation of Tibetan Buddhist texts, and to reflect on the broader implications of its work at the intersection of technology, tradition, and global access.</p>
 
-<h3 id="whats-next">What’s Next?</h3>
+<h2 id="whats-next">What’s Next?</h2>
 
 <p>This opening post lays the foundation for the series ahead. In the next entry, I will turn to BUDA, the platform that powers BDRC’s digital library. I will unpack how BUDA functions: Not just as a technical infrastructure, but as a framework for organizing, linking, and sharing Tibetan texts in a way that supports long-term preservation, scholarly research, and open access. Its design reflects a thoughtful balance between innovation and cultural sensitivity, offering a model for how digital systems can responsibly steward complex textual traditions.</p>
 
-<h4 id="coming-up-in-the-series">Coming up in the series:</h4>
+<h2 id="coming-up-in-the-series">Coming up in the series:</h2>
 
 <ul>
   <li>Digitizing the Dharma – Introducing BDRC and the Digital Preservation of Tibetan Buddhist Texts (this post)</li>
@@ -497,4 +638,4 @@ be used carefully</p>
 
 <h3 id="example-of-another-sub-heading-2">Example of another Sub-Heading 2</h3>
 
-<p>Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.</p>]]></content><author><name></name></author><category term="sample-posts" /><category term="toc" /><summary type="html"><![CDATA[an example of a blog post with table of contents]]></summary></entry><entry><title type="html">a post with giscus comments</title><link href="https://yundung.ch/blog/2022/giscus-comments/" rel="alternate" type="text/html" title="a post with giscus comments" /><published>2022-12-10T15:59:00+00:00</published><updated>2022-12-10T15:59:00+00:00</updated><id>https://yundung.ch/blog/2022/giscus-comments</id><content type="html" xml:base="https://yundung.ch/blog/2022/giscus-comments/"><![CDATA[<p>This post shows how to add GISCUS comments.</p>]]></content><author><name></name></author><category term="sample-posts" /><category term="external-services" /><summary type="html"><![CDATA[an example of a blog post with giscus comments]]></summary></entry><entry><title type="html">Displaying External Posts on Your al-folio Blog</title><link href="https://yundung.ch/blog/2022/displaying-external-posts-on-your-al-folio-blog/" rel="alternate" type="text/html" title="Displaying External Posts on Your al-folio Blog" /><published>2022-04-23T23:20:09+00:00</published><updated>2022-04-23T23:20:09+00:00</updated><id>https://yundung.ch/blog/2022/displaying-external-posts-on-your-al-folio-blog</id><content type="html" xml:base="https://yundung.ch/blog/2022/displaying-external-posts-on-your-al-folio-blog/"><![CDATA[]]></content><author><name></name></author></entry></feed>
+<p>Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.</p>]]></content><author><name></name></author><category term="sample-posts" /><category term="toc" /><summary type="html"><![CDATA[an example of a blog post with table of contents]]></summary></entry><entry><title type="html">a post with giscus comments</title><link href="https://yundung.ch/blog/2022/giscus-comments/" rel="alternate" type="text/html" title="a post with giscus comments" /><published>2022-12-10T15:59:00+00:00</published><updated>2022-12-10T15:59:00+00:00</updated><id>https://yundung.ch/blog/2022/giscus-comments</id><content type="html" xml:base="https://yundung.ch/blog/2022/giscus-comments/"><![CDATA[<p>This post shows how to add GISCUS comments.</p>]]></content><author><name></name></author><category term="sample-posts" /><category term="external-services" /><summary type="html"><![CDATA[an example of a blog post with giscus comments]]></summary></entry></feed>
