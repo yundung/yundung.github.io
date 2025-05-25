@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://yundung.ch/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yundung.ch/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-05-25T13:05:34+00:00</updated><id>https://yundung.ch/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://yundung.ch/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yundung.ch/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-05-25T13:13:35+00:00</updated><id>https://yundung.ch/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 </subtitle><entry><title type="html">Buddhist Digital Archives (BUDA) in Focus - Part 2</title><link href="https://yundung.ch/blog/2025/BUDA2/" rel="alternate" type="text/html" title="Buddhist Digital Archives (BUDA) in Focus - Part 2" /><published>2025-04-18T08:44:00+00:00</published><updated>2025-04-18T08:44:00+00:00</updated><id>https://yundung.ch/blog/2025/BUDA2</id><content type="html" xml:base="https://yundung.ch/blog/2025/BUDA2/"><![CDATA[<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         <figure>
@@ -53,13 +53,15 @@
   <p>— <a href="https://youtu.be/JXq3NVft8RQ?si=2tRiYd_DwdOqsC6B&amp;t=28">Buddhist Digital Resource Center</a></p>
 </blockquote>
 
-<p>BUDA hosts millions of pages of Buddhist texts, combining high-resolution scans of original manuscripts with digitized electronic texts. The platform’s intuitive design offers a range of tools to support research and study, including:
-    Browsing curated collections by tradition, language, or preservation project
-    Advanced multi-language search options to find specific texts, authors, or topics
-    High-resolution image viewer for detailed examination of original manuscripts
-    Etext reader with translation support for easier reading and comparison
-    Linked open data structure that connects people, places, texts, and topics
-    Downloadable texts for offline use</p>
+<p>BUDA hosts millions of pages of Buddhist texts, combining high-resolution scans of original manuscripts with digitized electronic texts. The platform’s intuitive design offers a range of tools to support research and study, including:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Browsing curated collections by tradition, language, or preservation project
+Advanced multi-language search options
+High-resolution image viewer to examine original manuscripts
+Etext reader with translation support
+Linked open data structure that connects people, places, texts, and topics
+Downloadable texts for offline use
+</code></pre></div></div>
 
 <p>This blog post highlights how BUDA’s search features and data organization provide support for researchers, while also demonstrating broader implications for cultural heritage digitization.</p>
 
@@ -105,6 +107,8 @@
 <hr />
 
 <h3 id="features-for-access-analysis-and-discovery">Features for Access, Analysis, and Discovery</h3>
+
+<hr />
 
 <h4 id="utilize-the-search-function">Utilize the Search Function</h4>
 
@@ -169,13 +173,13 @@
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Practical Example of “Rebonds” in Action
 </code></pre></div></div>
 
-<p>Suppose you’re viewing a digitized Tibetan manuscript on BUDA. From this record, you can:</p>
+<p>Suppose I am viewing a digitized Tibetan manuscript on BUDA. From this record, I can:</p>
 
 <ul>
-  <li>🏃‍♂️ Jump to the author’s biography and see their other works.</li>
-  <li>🧭 Explore different versions or translations of the text.</li>
-  <li>📍 View related places (such as the monastery where it was written or stored).</li>
-  <li>💡 Discover other texts from the same collection, period, or tradition.</li>
+  <li>🏃‍♂️ Jump to the author’s biography and see their other works</li>
+  <li>🧭 Explore different versions or translations of the text</li>
+  <li>📍 View related places (such as the monastery where it was written or stored)</li>
+  <li>💡 Discover other texts from the same collection, period, or tradition</li>
 </ul>
 
 <p>This interconnected approach transforms BUDA from a static archive into a dynamic research environment, supporting both targeted inquiry and open-ended exploration.</p>
@@ -184,9 +188,13 @@
   <p>“Users can assume a broad-scale view of the Linked Open Data from the entire corpus in the archive and draw much broader conclusions regarding the content, circulation, and use of the smaller bodies of texts hosted in the archive.” - <a href="https://digitalorientalist.com/2021/03/03/images-of-the-buda-digital-archives-and-the-future-of-research-using-linked-open-data/">The Digital Orientalist</a></p>
 </blockquote>
 
+<hr />
+
 <h4 id="access-and-download-digital-manuscripts">Access and Download Digital Manuscripts</h4>
 
 <p>High-resolution digital scans of manuscripts are available for page-by-page browsing or full-text reading. Registered users may download complete works as PDF or image files. Non-registered visitors typically have access to the first and last 20 pages of most texts.</p>
+
+<hr />
 
 <h4 id="make-use-of-the-e-text-reader-and-research-tools">Make Use of the E-Text Reader and Research Tools</h4>
 
@@ -204,11 +212,15 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JXq3NVft8RQ?si=hDdBNnYWjiOOhjOn&amp;start=138" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
+<hr />
+
 <h4 id="person-search-connecting-biographies-and-texts">Person Search: Connecting Biographies and Texts</h4>
 
 <p>Searching for persons in BUDA reveals detailed biographical profiles, linked writings, and related figures, enriching understanding of historical and religious contexts. Filters for name variants, birth year, role, tradition, and gender help resolve common ambiguities and pinpoint relevant individuals.</p>
 
 <p>This interconnected data reflects the lived networks behind Tibetan Buddhist textual production, supporting both prosopographic studies and traditional scholarship.</p>
+
+<hr />
 
 <h4 id="place-search-mapping-sacred-geography">Place Search: Mapping Sacred Geography</h4>
 
@@ -216,11 +228,15 @@
 
 <p>This geospatial approach fosters new perspectives on textual circulation and monastic or pilgrimage sites, expanding the scope of traditional research.</p>
 
+<hr />
+
 <h4 id="collection-search-accessing-curated-text-groupings">Collection Search: Accessing Curated Text Groupings</h4>
 
 <p>With over 100 collections aggregated, BUDA enables targeted exploration of libraries and archives, filtering by language, author, topic, and print or manuscript status. This allows scholars to balance deep dives into specific corpora with serendipitous discovery across the broader Tibetan textual heritage.</p>
 
 <p>Tracking provenance and collection metadata further anchors research in material history and institutional contexts.</p>
+
+<hr />
 
 <h4 id="topic-search-thematic-pathways-through-complex-traditions">Topic Search: Thematic Pathways through Complex Traditions</h4>
 
