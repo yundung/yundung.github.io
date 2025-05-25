@@ -28,6 +28,7 @@ One organization that stood out throughout my thesis, but that I was unable to i
 
 My [thesis](/assets/pdf/Yundung%202024_%20Digitizing%20Tibetan%20Buddhist%20Texts.pdf) showed that digitization is not just a technical task. It is a cultural and ethical one. It involves navigating questions of access, authority, identity, and preservation, and institutions such as BDRC embody these complexities in their entirety.
 
+---
 
 BDRC began as the **Tibetan Buddhist Resource Center (TBRC)** in 1999, founded by the late [**E. Gene Smith**](https://www.bdrc.io/people/e-gene-smith/). After decades of working with Tibetan texts at the Library of Congress, Smith sought to ensure that the vast literary heritage of Tibet, threatened by displacement and globalization, would not be lost. What made his approach unique was his early embrace of digital tools, not just for storage, but for equitable access. His goal was simple but revolutionary: to make Tibetan texts available to everyone, from monks in exile to scholars across the world.
 
