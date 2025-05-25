@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://yundung.ch/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yundung.ch/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-05-25T10:19:55+00:00</updated><id>https://yundung.ch/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://yundung.ch/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yundung.ch/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-05-25T10:23:38+00:00</updated><id>https://yundung.ch/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 </subtitle><entry><title type="html">Buddhist Digital Archives (BUDA) in Focus - Part 2</title><link href="https://yundung.ch/blog/2025/BUDA2/" rel="alternate" type="text/html" title="Buddhist Digital Archives (BUDA) in Focus - Part 2" /><published>2025-04-18T08:44:00+00:00</published><updated>2025-04-18T08:44:00+00:00</updated><id>https://yundung.ch/blog/2025/BUDA2</id><content type="html" xml:base="https://yundung.ch/blog/2025/BUDA2/"><![CDATA[<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         <figure>
@@ -48,9 +48,9 @@
 <p>To provide open access to its extensive collection, BDRC developed the <a href="https://www.bdrc.io/buda-archive/">Buddhist Digital Archives (BUDA)</a>, a powerful online platform that serves as a collaborative archive and research tool.</p>
 
 <blockquote>
-  <p>BUDA is easy, intuitive, and fast. It features a state-of-the-art image viewer, a sophisticated data structure, and an advanced search that places our vast archive—and those of our partner institutions—right at your fingertips.</p>
+  <p>“BUDA is easy, intuitive, and fast. It features a state-of-the-art image viewer, a sophisticated data structure, and an advanced search that places our vast archive and those of our partner institutions right at your fingertips.”</p>
 
-  <p>— <a href="https://youtu.be/JXq3NVft8RQ?si=2tRiYd_DwdOqsC6B&amp;t=28"><em>Welcome to BUDA, BDRC’s Library</em></a>, BDRC YouTube Channel</p>
+  <p>— <a href="https://youtu.be/JXq3NVft8RQ?si=2tRiYd_DwdOqsC6B&amp;t=28"><em>Welcome to BUDA, BDRC’s Library</em></a></p>
 </blockquote>
 
 <p>BUDA hosts millions of pages of Buddhist texts, combining high-resolution scans of original manuscripts with digitized electronic texts. The platform’s intuitive design offers a range of tools to support research and study, including:</p>
@@ -77,6 +77,8 @@
 <p>This digital platform allows for accessing an extensive collection of Tibetan and Buddhist texts in multiple languages, including Tibetan, Sanskrit, Chinese, Pali, Burmese, and Khmer.</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JXq3NVft8RQ?si=sf7P8w8SMl_0uUGx&amp;start=80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+
+<hr />
 
 <h2 id="how-to-use-buda-a-step-by-step-guide">How to Use BUDA: A Step-by-Step Guide</h2>
 
