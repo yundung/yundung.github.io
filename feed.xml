@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://yundung.ch/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yundung.ch/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-05-25T15:14:11+00:00</updated><id>https://yundung.ch/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://yundung.ch/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yundung.ch/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-05-25T15:21:11+00:00</updated><id>https://yundung.ch/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 </subtitle><entry><title type="html">Buddhist Digital Archives (BUDA) in Focus - Part 2</title><link href="https://yundung.ch/blog/2025/BUDA2/" rel="alternate" type="text/html" title="Buddhist Digital Archives (BUDA) in Focus - Part 2" /><published>2025-04-18T08:44:00+00:00</published><updated>2025-04-18T08:44:00+00:00</updated><id>https://yundung.ch/blog/2025/BUDA2</id><content type="html" xml:base="https://yundung.ch/blog/2025/BUDA2/"><![CDATA[<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         <figure>
@@ -26,14 +26,6 @@
 <h3 id="table-of-contents">Table of Contents</h3>
 
 <ul>
-  <li><a href="#features-for-access-analysis-and-discovery">Features for Access, Analysis, and Discovery</a>
-    <ul>
-      <li><a href="#utilize-the-search-function">Utilize the Search Function</a></li>
-      <li><a href="#explore-linked-data-rebonds">Explore Linked Data (“Rebonds”)</a></li>
-      <li><a href="#access-and-download-digital-manuscripts">Access and Download Digital Manuscripts</a></li>
-      <li><a href="#make-use-of-the-e-text-reader-and-research-tools">Make Use of the E-Text Reader and Research Tools</a></li>
-    </ul>
-  </li>
   <li><a href="#navigating-buda-search-features-that-empower-research">Navigating BUDA: Search Features that Empower Research</a>
     <ul>
       <li><a href="#person-search-connecting-biographies-and-texts">Person Search: Connecting Biographies and Texts</a></li>
