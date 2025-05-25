@@ -25,10 +25,10 @@ As part of my final project in Digital Humanities, I am writing a five-part blog
 
 One organization that stood out throughout my thesis, but that I was unable to include directly due to the lack of an interview, was the [**Buddhist Digital Resource Center** (BDRC)](https://www.bdrc.io). In fact, the absence of a direct exchange with BDRC during my research only increased my curiosity. That is why I have chosen to dedicate my final Digital Humanities project to BDRC: to dive deeper into its history, mission, technological strategies, and cultural impact.
 
-## Why BDRC? ##
-
+## Why BDRC?
 
 My [thesis](/assets/pdf/Yundung%202024_%20Digitizing%20Tibetan%20Buddhist%20Texts.pdf) showed that digitization is not just a technical task. It is a cultural and ethical one. It involves navigating questions of access, authority, identity, and preservation, and institutions such as BDRC embody these complexities in their entirety. Looking through BDRC’s public [news](https://www.bdrc.io/news/) and project updates, it becomes clear how the organization continuously enhances access to rare texts, develops cutting-edge digital tools, and partners with communities and institutions to safeguard and share Tibetan culture globally.
+
 ---
 
 BDRC began as the **Tibetan Buddhist Resource Center (TBRC)** in 1999, founded by the late [**E. Gene Smith**](https://www.bdrc.io/people/e-gene-smith/). After decades of working with Tibetan texts at the Library of Congress, Smith sought to ensure that the vast literary heritage of Tibet, threatened by displacement and globalization, would not be lost. What made his approach unique was his early embrace of digital tools, not just for storage, but for equitable access. His goal was simple but revolutionary: to make Tibetan texts available to everyone, from monks in exile to scholars across the world.
