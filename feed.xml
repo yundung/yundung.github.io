@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://yundung.ch/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yundung.ch/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-05-25T12:56:50+00:00</updated><id>https://yundung.ch/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://yundung.ch/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yundung.ch/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-05-25T13:05:34+00:00</updated><id>https://yundung.ch/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 </subtitle><entry><title type="html">Buddhist Digital Archives (BUDA) in Focus - Part 2</title><link href="https://yundung.ch/blog/2025/BUDA2/" rel="alternate" type="text/html" title="Buddhist Digital Archives (BUDA) in Focus - Part 2" /><published>2025-04-18T08:44:00+00:00</published><updated>2025-04-18T08:44:00+00:00</updated><id>https://yundung.ch/blog/2025/BUDA2</id><content type="html" xml:base="https://yundung.ch/blog/2025/BUDA2/"><![CDATA[<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         <figure>
@@ -53,25 +53,23 @@
   <p>— <a href="https://youtu.be/JXq3NVft8RQ?si=2tRiYd_DwdOqsC6B&amp;t=28">Buddhist Digital Resource Center</a></p>
 </blockquote>
 
-<p>BUDA hosts millions of pages of Buddhist texts, combining high-resolution scans of original manuscripts with digitized electronic texts. The platform’s intuitive design offers a range of tools to support research and study, including:</p>
-<ul>
-  <li>🧭 Browsing curated collections by tradition, language, or preservation project</li>
-  <li>🔍 Advanced multi-language search options to find specific texts, authors, or topics</li>
-  <li>🖼️ High-resolution image viewer for detailed examination of original manuscripts</li>
-  <li>📖 Etext reader with translation support for easier reading and comparison</li>
-  <li>🔗 Linked open data structure that connects people, places, texts, and topics</li>
-  <li>💾 Downloadable texts for offline use</li>
-</ul>
+<p>BUDA hosts millions of pages of Buddhist texts, combining high-resolution scans of original manuscripts with digitized electronic texts. The platform’s intuitive design offers a range of tools to support research and study, including:
+    Browsing curated collections by tradition, language, or preservation project
+    Advanced multi-language search options to find specific texts, authors, or topics
+    High-resolution image viewer for detailed examination of original manuscripts
+    Etext reader with translation support for easier reading and comparison
+    Linked open data structure that connects people, places, texts, and topics
+    Downloadable texts for offline use</p>
 
 <p>This blog post highlights how BUDA’s search features and data organization provide support for researchers, while also demonstrating broader implications for cultural heritage digitization.</p>
 
 <hr />
 
 <h2 id="exploring-the-vast-collection-of-tibetan-and-buddhist-literature-on-buda">Exploring the Vast Collection of Tibetan and Buddhist Literature on BUDA</h2>
-<p>BUDA is built as an open-source platform based on open standards, designed for free use and easy access. At its core are two key technologies: the International Image Interoperability Framework (IIIF) and Linked Open Data.<sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">1</a></sup></p>
+<p>BUDA is built as an open-source platform based on open standards, designed for free use and easy access. At its core are two key technologies: the International Image Interoperability Framework (IIIF) and Linked Open Data (LOD).<sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">1</a></sup></p>
 <ul>
-  <li>IIIF enables BUDA to provide a rich, user-friendly interface for viewing, downloading, annotating, and sharing high-quality images of Buddhist manuscripts—capabilities far beyond previous systems</li>
-  <li>BUDA’s Linked Open Data architecture structures information in a machine-readable, interconnected way, allowing seamless linking and querying across datasets. This not only supports long-term preservation but also creates a dynamic, globally accessible scholarly hub that connects texts, people, places, and historical contexts within Buddhist cultural heritage.</li>
+  <li>IIIF enables BUDA to provide a rich, user-friendly interface for viewing, downloading, annotating, and sharing high-quality images of Buddhist manuscripts</li>
+  <li>BUDA’s LOD architecture structures information in a machine-readable, interconnected way, allowing seamless linking and querying across datasets. This not only supports long-term preservation but also creates a dynamic, globally accessible scholarly hub that connects texts, people, places, and historical contexts within Buddhist cultural heritage.</li>
 </ul>
 
 <p>This digital platform allows for accessing an extensive collection of Tibetan and Buddhist texts in multiple languages, including Tibetan, Sanskrit, Chinese, Pali, Burmese, and Khmer.</p>
@@ -168,15 +166,16 @@
 
 <p>BUDA’s LOD schema captures the “who, what, when, and where” of Buddhist cultural heritage. Every person, place, work, and version in the archive is treated as a distinct, richly described entity connected to others in meaningful ways.</p>
 
-<h5 id="practical-example-of-rebonds-in-action">Practical Example of “Rebonds” in Action</h5>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Practical Example of “Rebonds” in Action
+</code></pre></div></div>
 
 <p>Suppose you’re viewing a digitized Tibetan manuscript on BUDA. From this record, you can:</p>
 
 <ul>
-  <li>Jump to the author’s biography and see their other works.</li>
-  <li>Explore different versions or translations of the text.</li>
-  <li>View related places (such as the monastery where it was written or stored).</li>
-  <li>Discover other texts from the same collection, period, or tradition.</li>
+  <li>🏃‍♂️ Jump to the author’s biography and see their other works.</li>
+  <li>🧭 Explore different versions or translations of the text.</li>
+  <li>📍 View related places (such as the monastery where it was written or stored).</li>
+  <li>💡 Discover other texts from the same collection, period, or tradition.</li>
 </ul>
 
 <p>This interconnected approach transforms BUDA from a static archive into a dynamic research environment, supporting both targeted inquiry and open-ended exploration.</p>
