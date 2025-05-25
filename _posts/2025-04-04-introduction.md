@@ -25,7 +25,8 @@ As part of my final project in Digital Humanities, I am writing a five-part blog
 
 One organization that stood out throughout my thesis, but that I was unable to include directly due to the lack of an interview, was the [**Buddhist Digital Resource Center** (BDRC)](https://www.bdrc.io). In fact, the absence of a direct exchange with BDRC during my research only increased my curiosity. That is why I have chosen to dedicate my final Digital Humanities project to BDRC: to dive deeper into its history, mission, technological strategies, and cultural impact.
 
-## Why BDRC?
+## Why BDRC? ##
+
 
 My [thesis](/assets/pdf/Yundung%202024_%20Digitizing%20Tibetan%20Buddhist%20Texts.pdf) showed that digitization is not just a technical task. It is a cultural and ethical one. It involves navigating questions of access, authority, identity, and preservation, and institutions such as BDRC embody these complexities in their entirety. Looking through BDRC’s public [news](https://www.bdrc.io/news/) and project updates, it becomes clear how the organization continuously enhances access to rare texts, develops cutting-edge digital tools, and partners with communities and institutions to safeguard and share Tibetan culture globally.
 ---
@@ -77,7 +78,8 @@ This opening post lays the foundation for the series ahead. In the next entry, I
 ## Coming up in the series:
 
 - Digitizing the Dharma – Introducing BDRC and the Digital Preservation of Tibetan Buddhist Texts (this post)  
-- Buddhist Digital Archives (BUDA) in Focus
+- Buddhist Digital Archives (BUDA) in Focus - Part 1
+- Buddhist Digital Archives (BUDA) in Focus - Part 2
 - Behind the Interface: Metadata, Modularity, and the Challenges of Cataloguing Tibetan Texts  
 - Who Gets to Digitize? Actors, Agendas, and Authority in the Preservation of Tibetan Knowledge  
 - From Access to Engagement: The Role of Community in the Future of Digital Preservation
