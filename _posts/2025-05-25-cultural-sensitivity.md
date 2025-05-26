@@ -31,7 +31,7 @@ At the heart of BUDA lies a commitment to **cultural sensitivity** and **collabo
 
 BDRC’s team collaborates closely with **monastic communities**, **traditional archivists**, and **Buddhist scholars**, who offer essential expertise in local cataloging practices and textual lineages. Their involvement is central to the creation of meaningful metadata and culturally accurate classifications, allowing BUDA to reflect the internal logic of Tibetan knowledge systems.
 
-A notable illustration of this stewardship is BDRC’s ongoing collaboration with the [**Library of Tibetan Works and Archives** (LTWA)](https://tibetanlibrary.org/) in Dharamsala, India. Together, they have digitally preserved hundreds of rare and previously unpublished manuscripts from LTWA’s Manuscripts Division—texts that were once accessible only onsite. This project involved meticulous cataloging and high-quality digitization to preserve not only the texts but also unique features such as rubrication (traditional red ink highlights) and detailed colophons that reveal valuable historical and cultural context.[^1]
+A notable illustration of this stewardship is BDRC’s ongoing collaboration with the [**Library of Tibetan Works and Archives** (LTWA)](https://tibetanlibrary.org/) in Dharamsala, India. Together, they have digitally preserved hundreds of rare and previously unpublished manuscripts from LTWA’s Manuscripts Division. Texts that were once accessible only onsite. This project involved meticulous cataloging and high-quality digitization to preserve not only the texts but also unique features such as rubrication (traditional red ink highlights) and detailed colophons that reveal valuable historical and cultural context.[^1]
 
 - Side note: As part of my master’s thesis [Digitizing Tibetan Buddhist Texts – An Analysis of Key Tibetan Actors and Their Roles](/assets/pdf/Yundung%202024_%20Digitizing%20Tibetan%20Buddhist%20Texts.pdf), I conducted interviews with their director and head librarian to understand the motivations behind their digitization efforts, the challenges they face, and the strategies they employ to balance cultural preservation, scholarly accessibility, and technological advancement.
 
@@ -42,7 +42,7 @@ By making these materials freely available online, BDRC and LTWA ensure that pre
 
 ### Technology in Service of Tradition
 
-While BUDA employs state-of-the-art technologies—such as **high-resolution imaging**, **linked open data**, and an **open-source infrastructure**[^2], these tools are never ends in themselves. They are designed to support, rather than override, the traditional uses and meanings of the texts.
+While BUDA employs state-of-the-art technologies, such as **high-resolution imaging**, **linked open data**, and an **open-source infrastructure**[^2], these tools are never ends in themselves. They are designed to support, rather than override, the traditional uses and meanings of the texts.
 > "BDRC digitizes endangered Buddhist manuscripts for long-term preservation and creates digital tools to support access and research." 
 > — [Buddhist Digital Resource Center](https://www.bdrc.io/programs/)
 
@@ -69,11 +69,11 @@ Where these purposes come into tension, BDRC **prioritizes respect for the right
     Types of Restricted Access at BDRC
 </div>
 
-In addition to legal considerations, BDRC also **restricts access out of cultural sensitivity**. Some texts—referred to as ***sealed texts***—are considered **esoteric or ritually restricted** by the communities that hold them. Access to these works is limited at the request of the tradition holders to prevent misuse or unintended exposure. Similarly, some materials may be temporarily restricted due to **poor scan quality, incomplete metadata, or other technical limitations**.
+In addition to legal considerations, BDRC also **restricts access out of cultural sensitivity**. Some texts, referred to as ***sealed texts***, are considered **esoteric or ritually restricted** by the communities that hold them. Access to these works is limited at the request of the tradition holders to prevent misuse or unintended exposure. Similarly, some materials may be temporarily restricted due to **poor scan quality, incomplete metadata, or other technical limitations**.
 
-BUDA’s platform allows **registered users to freely download full PDFs of open-access works**. Creating an account is free and helps BDRC track use while protecting sensitive content. For unregistered users, access is limited to **sample pages**.
+BUDA’s platform allows **registered users to freely download full PDFs of open-access works**. Creating an account is free and helps BDRC track use while protecting sensitive content.
 
-In this way, BUDA ensures that **access does not come at the cost of cultural autonomy or ethical responsibility**. Its commitment to ***access with respect*** means navigating the complex intersection of preservation, law, technology, and tradition—an approach that sees digitization not just as a technical task, but as a **culturally embedded responsibility**. [^3]
+In this way, BUDA ensures that **access does not come at the cost of cultural autonomy or ethical responsibility**. Its commitment to ***access with respect*** means navigating the complex intersection of preservation, law, technology, and tradition. An approach that sees digitization not just as a technical task, but as a **culturally embedded responsibility**. [^3]
 
 ---
 
@@ -92,7 +92,7 @@ In doing so, BUDA not only supports cutting-edge scholarship but also **empowers
 
 ### Conclusion
 
-BUDA demonstrates that **digital tools can serve tradition** when developed through partnership, humility, and cultural understanding. Its strategies—preserving whole archives, honoring traditional organization, and providing open yet respectful access—offer a roadmap for other digital preservation efforts worldwide.
+BUDA demonstrates that **digital tools can serve tradition** when developed through partnership, humility, and cultural understanding. Its strategies such as preserving whole archives, honoring traditional organization, and providing open yet respectful access offer a roadmap for other digital preservation efforts worldwide.
 
 In a time when digitization is often driven by speed and efficiency, BUDA reminds us that **thoughtfulness, context, and respect** are equally important. Through its model of innovation guided by cultural sensitivity, BUDA ensures that the Dharma is not only preserved, but truly honored in the digital realm.
 
