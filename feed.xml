@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://yundung.ch/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yundung.ch/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-05-26T10:04:21+00:00</updated><id>https://yundung.ch/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://yundung.ch/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yundung.ch/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-05-26T10:10:56+00:00</updated><id>https://yundung.ch/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 </subtitle><entry><title type="html">Innovation Guided by Cultural Sensitivity – BDRC’s Model of Responsible Digital Stewardship</title><link href="https://yundung.ch/blog/2025/cultural-sensitivity/" rel="alternate" type="text/html" title="Innovation Guided by Cultural Sensitivity – BDRC’s Model of Responsible Digital Stewardship" /><published>2025-04-25T18:12:00+00:00</published><updated>2025-04-25T18:12:00+00:00</updated><id>https://yundung.ch/blog/2025/cultural-sensitivity</id><content type="html" xml:base="https://yundung.ch/blog/2025/cultural-sensitivity/"><![CDATA[<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         <figure>
@@ -48,8 +48,11 @@
 <h3 id="technology-in-service-of-tradition">Technology in Service of Tradition</h3>
 
 <p>While BUDA employs state-of-the-art technologies—such as <strong>high-resolution imaging</strong>, <strong>linked open data</strong>, and an <strong>open-source infrastructure</strong><sup id="fnref:2"><a href="#fn:2" class="footnote" rel="footnote" role="doc-noteref">2</a></sup>, these tools are never ends in themselves. They are designed to support, rather than override, the traditional uses and meanings of the texts.</p>
-
-<p>For example, BUDA’s image-based approach produces <strong>faithful digital facsimiles</strong>, capturing physical features such as <strong>script styles</strong>, <strong>page layout</strong>, and <strong>marginalia</strong>. These details are crucial not only for <strong>philological and codicological research</strong> but also for <strong>religious practice</strong>, where the visual form of a manuscript often holds devotional significance.</p>
+<blockquote>
+  <p>“BDRC digitizes endangered Buddhist manuscripts for long-term preservation and creates digital tools to support access and research.” 
+— <a href="https://www.bdrc.io/programs/">Buddhist Digital Resource Center</a>
+For example, BUDA’s image-based approach produces <strong>faithful digital facsimiles</strong>, capturing physical features such as <strong>script styles</strong>, <strong>page layout</strong>, and <strong>marginalia</strong>. These details are crucial not only for <strong>philological and codicological research</strong> but also for <strong>religious practice</strong>, where the visual form of a manuscript often holds devotional significance.</p>
+</blockquote>
 
 <p>Moreover, BUDA’s infrastructure is built to be <strong>technically sustainable and interoperable</strong>, ensuring that these resources remain useful across future platforms and scholarly contexts without sacrificing their cultural authenticity.</p>
 
