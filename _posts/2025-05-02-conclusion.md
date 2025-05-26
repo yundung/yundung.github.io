@@ -55,7 +55,7 @@ However, using **phonetic Tibetan** also poses challenges, since there is curren
     </div>
 </div>
 <div class="caption">
-    Image of Troma Nagmo (Tib. ཁྲོས་མ་ནག་མོ་, Wyl. khros ma nag mo) from Rigpa Wiki
+    Image of Tröma Nagmo, a feminine embodiment of wisdom, from Rigpa Wiki
 </div>
 
 
