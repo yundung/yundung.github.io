@@ -11,11 +11,11 @@ visible: true
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/bdrc-07-LTWA.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/bdrc-07-LTWA-1.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
-    Photograph taken on February 19, 2024, at the Tibetan Books and Manuscripts Library of the Library of Tibetan Works and Archives (LTWA) in Dharamsala. The image shows shelves of traditional Tibetan manuscripts.
+    Photograph taken on February 19, 2024, at the "Tibetan Books and Manuscripts Library" division of the Library of Tibetan Works and Archives (LTWA) in Dharamsala. The image shows shelves of traditional Tibetan manuscripts.
 </div>
 
 ## Innovation Guided by Cultural Sensitivity – BDRC’s Model of Responsible Digital Stewardship
