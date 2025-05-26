@@ -96,6 +96,16 @@ BUDA demonstrates that **digital tools can serve tradition** when developed thro
 
 In a time when digitization is often driven by speed and efficiency, BUDA reminds us that **thoughtfulness, context, and respect** are equally important. Through its model of innovation guided by cultural sensitivity, BUDA ensures that the Dharma is not only preserved, but truly honored in the digital realm.
 
+## Coming up in the series:
+
+- [Digitizing the Dharma – Introducing BDRC and the Digital Preservation of Tibetan Buddhist Texts](https://yundung.ch/blog/2025/introduction/)  
+- [Buddhist Digital Archives (BUDA) in Focus - Part 1](https://yundung.ch/blog/2025/BUDA/)
+- [Buddhist Digital Archives (BUDA) in Focus - Part 2](https://yundung.ch/blog/2025/BUDA2/) 
+- [Innovation Guided by Cultural Sensitivity – BDRC’s Model of Responsible Digital Stewardship](https://yundung.ch/blog/2025/cultural-sensitivity/) (this post)
+- [A Personal Reflection on Accessing Tibetan Buddhist Texts Digitally on BUDA](https://yundung.ch/blog/2025/conclusion/)
+
+---
+
 
 [^1]: [https://www.bdrc.io/blog/2024/11/27/bdrc-and-the-library-of-tibetan-works-and-archives-collaborate-on-digital-preservation-of-manuscripts/](https://www.bdrc.io/blog/2024/11/27/bdrc-and-the-library-of-tibetan-works-and-archives-collaborate-on-digital-preservation-of-manuscripts/)
 [^2]: [https://github.com/buda-base/](https://github.com/buda-base/)
