@@ -83,6 +83,6 @@ This opening post lays the foundation for the series ahead. In the next entry, I
 - [Digitizing the Dharma – Introducing BDRC and the Digital Preservation of Tibetan Buddhist Texts](https://yundung.ch/blog/2025/introduction/) (this post)  
 - [Buddhist Digital Archives (BUDA) in Focus - Part 1](https://yundung.ch/blog/2025/BUDA/)
 - [Buddhist Digital Archives (BUDA) in Focus - Part 2](https://yundung.ch/blog/2025/BUDA2/)
-- Behind the Interface: Metadata, Modularity, and the Challenges of Cataloguing Tibetan Texts  
+- [Innovation Guided by Cultural Sensitivity – BDRC’s Model of Responsible Digital Stewardship](https://yundung.ch/blog/2025/cultural-sensitivity/)
 - Who Gets to Digitize? Actors, Agendas, and Authority in the Preservation of Tibetan Knowledge  
 - From Access to Engagement: The Role of Community in the Future of Digital Preservation
