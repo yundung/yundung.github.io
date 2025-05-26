@@ -43,7 +43,8 @@ By making these materials freely available online, BDRC and LTWA ensure that pre
 ### Technology in Service of Tradition
 
 While BUDA employs state-of-the-art technologies—such as **high-resolution imaging**, **linked open data**, and an **open-source infrastructure**[^2], these tools are never ends in themselves. They are designed to support, rather than override, the traditional uses and meanings of the texts.
-
+> "BDRC digitizes endangered Buddhist manuscripts for long-term preservation and creates digital tools to support access and research." 
+> — [Buddhist Digital Resource Center](https://www.bdrc.io/programs/)
 For example, BUDA’s image-based approach produces **faithful digital facsimiles**, capturing physical features such as **script styles**, **page layout**, and **marginalia**. These details are crucial not only for **philological and codicological research** but also for **religious practice**, where the visual form of a manuscript often holds devotional significance.
 
 Moreover, BUDA’s infrastructure is built to be **technically sustainable and interoperable**, ensuring that these resources remain useful across future platforms and scholarly contexts without sacrificing their cultural authenticity.
