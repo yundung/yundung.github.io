@@ -49,6 +49,16 @@ However, using **phonetic Tibetan** also poses challenges, since there is curren
 [![Troma Nagmo Statue](https://www.rigpawiki.org/images/1/12/Troma_Nagmo_Statue.jpg)](https://www.rigpawiki.org/index.php?title=Tröma_Nakmo_(Dudjom))
 
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="https://www.rigpawiki.org/images/1/12/Troma_Nagmo_Statue.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Image of Troma Nagmo (Tib. ཁྲོས་མ་ནག་མོ་, Wyl. khros ma nag mo) from Rigpa Wiki
+</div>
+
+
 As a **Buddhist practitioner**, I would begin by going directly to the [**“Tibetan Tradition”**](https://library.bdrc.io/tradition/bo/?type%5B0%5D=Instance&language%5B0%5D=LangBo&sortBy=firstScanSyncDate_desc) section on BUDA’s homepage. From there, I usually select a specific **lineage**, for example, the **Kagyu school**.
 
 <div class="row mt-3">
