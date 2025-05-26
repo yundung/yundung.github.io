@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://yundung.ch/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yundung.ch/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-05-26T15:23:06+00:00</updated><id>https://yundung.ch/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://yundung.ch/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yundung.ch/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-05-26T15:29:45+00:00</updated><id>https://yundung.ch/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 </subtitle><entry><title type="html">A Personal Reflection on Accessing Tibetan Buddhist Texts Digitally on BUDA</title><link href="https://yundung.ch/blog/2025/conclusion/" rel="alternate" type="text/html" title="A Personal Reflection on Accessing Tibetan Buddhist Texts Digitally on BUDA" /><published>2025-05-02T14:28:00+00:00</published><updated>2025-05-02T14:28:00+00:00</updated><id>https://yundung.ch/blog/2025/conclusion</id><content type="html" xml:base="https://yundung.ch/blog/2025/conclusion/"><![CDATA[<h2 id="why-this-reflection">Why This Reflection?</h2>
 
 <p>After four blogposts exploring the <strong>history</strong>, <strong>mission</strong>, and <strong>technological foundation</strong> of the <strong>Buddhist Digital Resource Center (BDRC)</strong> and its platform <strong>BUDA</strong>, I want to end this series on a more personal note. My previous entries aimed to present BDRC’s work in a clear and objective way. This final post, by contrast, is written from my own perspective as a potential user of BUDA. <em>What does it actually feel like to use this platform?</em> What are its <strong>strengths</strong>, its <strong>challenges</strong>, and its <strong>possibilities</strong> for someone like me?</p>
@@ -481,9 +481,13 @@ all at once. It took me some time to grasp how everything is structured and how 
   <li>This search mode facilitates thematic research and cross-disciplinary inquiry, helping to navigate complex tradition</li>
 </ul>
 
+<hr />
+
 <h2 id="whats-next">What’s Next?</h2>
 
 <p>In the next post, the focus shifts from technical functionality to guiding principles. While BUDA offers powerful tools for searching and accessing Buddhist texts, it is equally defined by the values that shape its development. The fourth blog post explores how the Buddhist Digital Resource Center (BDRC) aligns innovation with cultural responsibility: Highlighting how collaboration, respectful access policies, and traditional knowledge systems are at the heart of its digital stewardship.</p>
+
+<hr />
 
 <h2 id="coming-up-in-the-series">Coming up in the series:</h2>
 
@@ -987,9 +991,13 @@ Then, under the Etext filter on the left, I selected “has e-text of any qualit
 
 <p>At the same time, the contributions of non-Tibetan organizations remain essential - none more so than the BDRC. Even though I was not able to include BDRC as a case study in my thesis due to the absence of a direct interview, its presence was unmistakable. As a pioneering force and arguably the most influential organization in the field, BDRC has shaped how Tibetan texts are digitized, catalogued, and made accessible. Its work continues to set standards and provide infrastructure that many others, Tibetan and non-Tibetan alike, build upon. That is why this series begins here: to explore BDRC’s role at the heart of the digital preservation of Tibetan Buddhist texts, and to reflect on the broader implications of its work at the intersection of technology, tradition, and global access.</p>
 
+<hr />
+
 <h2 id="whats-next">What’s Next?</h2>
 
 <p>This opening post lays the foundation for the series ahead. In the next entry, I will turn to BUDA, the platform that powers BDRC’s digital library. I will unpack how BUDA functions: Not just as a technical infrastructure, but as a framework for organizing, linking, and sharing Tibetan texts in a way that supports long-term preservation, scholarly research, and open access. Its design reflects a thoughtful balance between innovation and cultural sensitivity, offering a model for how digital systems can responsibly steward complex textual traditions.</p>
+
+<hr />
 
 <h2 id="coming-up-in-the-series">Coming up in the series:</h2>
 
