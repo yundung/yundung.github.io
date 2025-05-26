@@ -46,7 +46,6 @@ However, using **phonetic Tibetan** also poses challenges, since there is curren
     Search Query for Tröma Nakmo (Tib. ཁྲོས་མ་ནག་མོ་, Wyl. khros ma nag mo) in BUDA
 </div>
 
-[![Troma Nagmo Statue](https://www.rigpawiki.org/images/1/12/Troma_Nagmo_Statue.jpg)](https://www.rigpawiki.org/index.php?title=Tröma_Nakmo_(Dudjom))
 
 
 <div class="row mt-3">
@@ -55,7 +54,7 @@ However, using **phonetic Tibetan** also poses challenges, since there is curren
     </div>
 </div>
 <div class="caption">
-    Image of Tröma Nagmo, a feminine embodiment of wisdom, from Rigpa Wiki
+    Image of Tröma Nagmo, a feminine embodiment of wisdom, from [Rigpa Wiki](https://www.rigpawiki.org/index.php?title=Tröma_Nakmo_(Dudjom))
 </div>
 
 
