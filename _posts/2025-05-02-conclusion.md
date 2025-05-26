@@ -15,6 +15,8 @@ After four blogposts exploring the **history**, **mission**, and **technological
 
 This reflection is shaped by my own position, which sits at a unique intersection, I am a **student of Central Asian (Tibetan) Studies** as well as **Digital Humanities**. I am digitally interested and already familiar with some Tibetan Buddhist literature. At the same time, I am a Swiss-born Tibetan, fluent in colloquial Tibetan, with basic reading skills. English is the more natural language for me when doing research. And beyond all that, I am also a **practicing Buddhist**, which means my interest in BUDA is both **scholarly and personal**. These overlapping identities shape my experience of the platform in ways that are sometimes *empowering*, sometimes *overwhelming*.
 
+---
+
 ## First Impressions
 
 Opening **BUDA** for the first time, I felt genuinely impressed. The interface is clean, the speed is excellent, and - importantly - it is **openly accessible**. There is no need to register or log in to start exploring. This reflects **BDRC’s values of openness and inclusivity**.
@@ -24,6 +26,8 @@ At the same time, the **simplicity of the design** masks the platform’s **unde
 - a digital preservation platform, and
 - a research tool
 all at once. It took me some time to grasp how everything is structured and how best to search for the materials I was looking for.
+
+---
 
 ## Between Language, Practice, and Research
 
@@ -71,11 +75,15 @@ As a **Buddhist practitioner**, I would begin by going directly to the [**“Tib
 
 Because I already have some background knowledge of key figures and works in this tradition, I can navigate the material with more confidence. I know what to look for and can recognize texts that interest me. But I wonder how someone like a fellow Swiss-born Tibetan, with less experience in Buddhist studies, might find their way on the platform. Without some basic context, BUDA’s structure and terminology could be a bit challenging at first.
 
+---
+
 ## Strengths and Limitations
 
 There is much to appreciate in **BUDA**. The quality of **digital scans is excellent**, the **metadata is detailed and carefully structured**, and the **inclusion of traditional classifications** helps situate texts within the wider Tibetan literary landscape. Being able to explore entire collections organized by tradition, author, or even geographic origin is remarkable. As a *student* and *practitioner*, this feels like a gift.
 
 And yet, there are limits to what I can currently do. While I have a basic understanding of how linked open data works and why metadata is important, I am not yet technically skilled enough to use BUDA’s more advanced research tools such as SPARQL queries or the API. I see the potential, but it lies just beyond my current abilities.
+
+---
 
 ## Final Thoughts: A Platform That Inspires Growth
 
@@ -83,7 +91,11 @@ BUDA is more than just a digital text repository. It’s a platform that encoura
 
 While I’m excited by the possibilities BUDA offers, I’m also aware of my own linguistic and technical limits that sometimes make the platform feel challenging. For me, BUDA is a bridge between cultural heritage and technology, between past and future, and between personal belief and academic study. I hope it continues to grow in ways that support scholars, Tibetans, digital learners, and spiritual seekers alike.
 
-This brings my five-part blog series on the digitization of Tibetan Buddhist texts to a close. **Thank you for reading!**
+This brings my five-part blog series on the digitization of Tibetan Buddhist texts to a close.
+
+> **Thank you for reading!**
+
+---
 
 ## Read all of the blog posts here:
 
