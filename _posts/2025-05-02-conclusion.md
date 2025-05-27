@@ -83,6 +83,8 @@ There is much to appreciate in **BUDA**. The quality of **digital scans is excel
 
 And yet, there are limits to what I can currently do. While I have a basic understanding of how linked open data works and why metadata is important, I am not yet technically skilled enough to use BUDA’s more advanced research tools such as SPARQL queries or the API. I see the potential, but it lies just beyond my current abilities.
 
+At the same time, I believe BUDA could become even more accessible if BDRC provided additional support materials, especially short tutorials or video guides that walk users through the most important search queries step by step. While I am aware that BDRC already organizes webinars and classes (such as the live demo and training session for BUDA 2.0 announced [here](https://www.bdrc.io/introducing-buda-2-0-join-us-for-a-demo-of-the-new-site/)), I think it would be incredibly helpful to make a shorter recording of such sessions available afterward.
+
 ---
 
 ## Final Thoughts: A Platform That Inspires Growth
